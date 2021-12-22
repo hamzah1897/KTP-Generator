@@ -20,7 +20,7 @@ ________________________________________________________________________________
 ** Warning : This Tools only for use Education "Not For Ilegal Activity" **
 ## Installation && Running The Tools
 ```
-$ apt-get instakl git
+$ apt-get install git
 $ apt-get install php
 $ git clone https://github.com/hamzah1897/KTP-Generator.git
 $ cd KTP-Generator
