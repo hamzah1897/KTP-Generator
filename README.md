@@ -17,6 +17,11 @@ ________________________________________________________________________________
         Version 1.3  Created by  : hamzah1897
 _________________________________________________________________________________________________________
 ```
+```
+No. KTP : 3xxxxxxxxxxxxxx6
+No. KK  : 3xxxxxxxxxxxxxx1
+
+```
 ** Warning : This Tools only for use Education "Not For Ilegal Activity" **
 ## Installation && Running The Tools
 ```
