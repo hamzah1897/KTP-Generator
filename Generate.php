@@ -20,4 +20,3 @@ echo "  Version \e[92m V1.3\n\n";
 echo "No. KTP : ".$ktp."\n";
 echo "No. KK  : ".$kk."\n";
 ?>
-
