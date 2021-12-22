@@ -18,8 +18,8 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 ```
 ```
-No. KTP : 3xxxxxxxxxxxxxx6
-No. KK  : 3xxxxxxxxxxxxxx1
+No. KTP : 3xxxxxxxxxxxxxxx
+No. KK  : 3xxxxxxxxxxxxxxx
 
 ```
 ** Warning : This Tools only for use Education "Not For Ilegal Activity" **
